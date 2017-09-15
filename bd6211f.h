@@ -5,7 +5,7 @@
 
 /*  BD6211F
             _____
-     OUT1  -|    |- GND
+     OUT1  -|o   |- GND
      VCC   -|    |- OUT2  (Motor)
      VCC   -|    |- VHREF (duty power)
      FIN   -|____|- RIN
